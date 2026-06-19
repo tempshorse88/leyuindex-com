@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tempshorse88.github.io/leyuindex-com/sitemap.xml
